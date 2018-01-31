@@ -1,0 +1,14 @@
+[  
+   {  
+      "relation":[  
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{  
+         "namespace":"android_app",
+         "package_name":"com.visa.vmcp.android.fdnb.offline",
+         "sha256_cert_fingerprints":[  
+            "9E:C8:54:0F:F4:95:94:4F:9A:E5:81:86:7A:4E:C1:E0:9D:D0:C4:BA:72:B7:6B:A0:8F:E0:23:A3:93:13:65:BB"
+         ]
+      }
+   }
+]
