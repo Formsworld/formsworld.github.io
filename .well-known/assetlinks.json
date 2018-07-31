@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cadre.infy.com.cadremobile",
+    "sha256_cert_fingerprints":
+    ["C9:9C:72:5D:77:98:E8:A0:05:91:81:2F:0E:54:9F:EB:BA:08:C7:27:30:AC:36:D4:73:FC:10:4A:07:F2:A1:C8"]
+  }
+}]
