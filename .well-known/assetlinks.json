@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "cadre.infy.com.cadremobile",
+    "package_name": "com.docsnearme.secondopinion",
     "sha256_cert_fingerprints":
-    ["C9:9C:72:5D:77:98:E8:A0:05:91:81:2F:0E:54:9F:EB:BA:08:C7:27:30:AC:36:D4:73:FC:10:4A:07:F2:A1:C8"]
+    ["60:8A:4A:03:F4:E0:AD:2F:DF:DA:6E:79:06:06:6E:1D:D3:D4:D5:54:E3:1B:D8:E6:1A:CA:3E:46:32:ED:5E:47"]
   }
 }]
