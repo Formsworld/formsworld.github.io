@@ -1,9 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.docsnearme.secondopinion",
-    "sha256_cert_fingerprints":
-    ["60:8A:4A:03:F4:E0:AD:2F:DF:DA:6E:79:06:06:6E:1D:D3:D4:D5:54:E3:1B:D8:E6:1A:CA:3E:46:32:ED:5E:47"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.docsnearme.secondopinion",
+               "sha256_cert_fingerprints": ["60:8A:4A:03:F4:E0:AD:2F:DF:DA:6E:79:06:06:6E:1D:D3:D4:D5:54:E3:1B:D8:E6:1A:CA:3E:46:32:ED:5E:47"] }
 }]
